@@ -1,4 +1,4 @@
-# Unofficial Typeform Node API
+# Unofficial Typeform Node API [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Known Vulnerabilities][snyk-image]][snyk-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Code Coverage][codecoverage-image]][codecoverage-url]
 
 This is a client for Node.js to consume the [typeform.io](http://typeform.io) API. Community-supported, not endorsed by Typeform; documentation available at [docs.typeform.io](http://docs.typeform.io/). If this is all new to you, _grab your API key_ from the TypeformI/O website linked above, and be sure to visit [typeform.com](https://typeform.com).
 
@@ -65,3 +65,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+[npm-image]: https://badge.fury.io/js/typeform.svg
+[npm-url]: https://npmjs.org/package/typeform
+[travis-image]: https://travis-ci.org/auttoio/typeform-node.svg?branch=master
+[travis-url]: https://travis-ci.org/auttoio/typeform-node
+[snyk-image]: https://snyk.io/test/github/auttoio/typeform-node/badge.svg
+[snyk-url]: https://snyk.io/test/github/auttoio/typeform-node
+[daviddm-image]: https://david-dm.org/auttoio/typeform-node.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/auttoio/typeform-node
+[codeclimate-image]: https://codeclimate.com/github/auttoio/typeform-node/badges/gpa.svg
+[codeclimate-url]: https://codeclimate.com/github/auttoio/typeform-node
+[codecoverage-image]: https://codeclimate.com/github/auttoio/typeform-node/badges/coverage.svg
+[codecoverage-url]: https://codeclimate.com/github/auttoio/typeform-node/coverage
