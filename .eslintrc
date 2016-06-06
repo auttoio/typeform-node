@@ -1,0 +1,11 @@
+{
+  "parser": "babel-eslint",
+  "extends": "eslint:recommended",
+  "rules": {
+    "no-undef": 1
+  },
+  "env": {
+    "node": true,
+    "mocha": true
+  }
+}

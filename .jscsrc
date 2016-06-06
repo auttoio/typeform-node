@@ -1,0 +1,17 @@
+{
+  "preset": "idiomatic",
+  "fix": true,
+  "esnext": true,
+  "verbose": true,
+  "validateIndentation": 2,
+  "requireSemicolons": false,
+  "disallowSemicolons": true,
+  "requireCurlyBraces": false,
+  "requireCapitalizedComments": true,
+  "requireSpacesInsideBrackets": false,
+  "requireSpacesInsideParentheses": false,
+  "requireSpacesInsideObjectBrackets": "all",
+  "requirePaddingNewLinesBeforeLineComments": true,
+  "validateQuoteMarks": { "mark": "'", "escape": true },
+  "requireCamelCaseOrUpperCaseIdentifiers": { "ignoreProperties": true }
+}
