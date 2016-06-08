@@ -39,8 +39,21 @@ typeform['<method_name>'].then(
 ```
 
 ### API Reference
+
 #### `typeform.base()`
 <http://docs.typeform.io/docs/base>
+
+#### `typeform.createURL(<url_data>)`
+<http://docs.typeform.io/docs/urls>
+
+#### `typeform.getURL(<url_id>)`
+<http://docs.typeform.io/docs/urlsurl_id>
+
+#### `typeform.updateURL(<url_id>, <url_data>)`
+<http://docs.typeform.io/docs/urlsurl_id-1>
+
+#### `typeform.deleteURL(<url_id>)`
+<http://docs.typeform.io/docs/urlsurl_id-2>
 
 ## License
 
