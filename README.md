@@ -43,6 +43,12 @@ typeform['<method_name>'].then(
 #### `typeform.base()`
 <http://docs.typeform.io/docs/base>
 
+#### `typeform.createDesign(<design_data>)`
+<http://docs.typeform.io/docs/designs>
+
+#### `typeform.getDesign(<design_id>)`
+<http://docs.typeform.io/docs/designsdesign_id>
+
 #### `typeform.createForm(<form_data>)`
 <http://docs.typeform.io/docs/forms>
 

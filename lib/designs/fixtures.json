@@ -1,0 +1,22 @@
+{
+  "req": {
+    "colors": {
+      "question": "#3D3D3D",
+      "button": "#4FB0AE",
+      "answer": "#4FB0AE",
+      "background": "#FFFFFF"
+    },
+    "font": "Source Sans Pro"
+  },
+  "res": {
+    "id": "RmjsH92Zps4VvW",
+    "colors": {
+      "question": "#3D3D3D",
+      "button": "#4FB0AE",
+      "answer": "#4FB0AE",
+      "background": "#FFFFFF"
+    },
+    "font": "Source Sans Pro",
+    "version": "v0.4"
+  }
+}
