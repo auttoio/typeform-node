@@ -1,0 +1,11 @@
+{
+  "req": {
+    "url": "http://example.com/original_img.png"
+  },
+  "res": {
+    "id": "RmjsH92Zps4VvW",
+    "original_url": "http://example.com/original_img.png",
+    "type": "choice",
+    "version": "v0.4"
+  }
+}
