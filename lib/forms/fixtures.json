@@ -1,0 +1,48 @@
+{
+  "req": {
+    "title": "My new Typeform",
+    "tags": ["first-forms"],
+    "webhook_submit_url": "http://example.com/webhook",
+    "fields": [
+      {
+        "type": "short_text",
+        "question": "How is the weather down in Barcelona today?"
+      }
+    ]
+  },
+  "res": {
+    "id": "BRSgoNH6vdLBZw",
+    "title": "My new Typeform",
+    "tags": ["first-forms"],
+    "webhook_submit_url": "http://example.com/webhook",
+    "fields": [
+      {
+        "id": 3439,
+        "type": "short_text",
+        "question": "How is the weather down in Barcelona today?"
+      }
+    ],
+    "urls": [
+      {
+        "id": "hJ4tEqGWXF0qzr",
+        "form_id": "BRSgoNH6vdLBZw",
+        "version": "v0.4"
+      }
+    ],
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.typeform.io/latest/forms/BRSgoNH6vdLBZw"
+      },
+      {
+        "rel": "url",
+        "href": "https://api.typeform.io/latest/urls/hJ4tEqGWXF0qzr"
+      },
+      {
+        "rel": "form_render",
+        "href": "https://forms.typeform.io/to/hJ4tEqGWXF0qzr"
+      }
+    ],
+    "version": "v0.4"
+  }
+}

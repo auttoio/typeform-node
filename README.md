@@ -43,6 +43,12 @@ typeform['<method_name>'].then(
 #### `typeform.base()`
 <http://docs.typeform.io/docs/base>
 
+#### `typeform.createForm(<form_data>)`
+<http://docs.typeform.io/docs/forms>
+
+#### `typeform.getForm(<form_id>)`
+<http://docs.typeform.io/docs/forms-1>
+
 #### `typeform.createImage(<image_data>)`
 <http://docs.typeform.io/docs/images>
 
