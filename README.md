@@ -1,3 +1,7 @@
+**:warning: This package is no longer maintained. The official Typeform JavaScript SDK can be found at <https://www.npmjs.com/package/@typeform/api-client>.**
+
+---
+
 # Unofficial Typeform Node API [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Known Vulnerabilities][snyk-image]][snyk-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Code Coverage][codecoverage-image]][codecoverage-url]
 
 This is a client for Node.js to consume the [typeform.io](http://typeform.io) API. Community-supported, not endorsed by Typeform; documentation available at [docs.typeform.io](http://docs.typeform.io/). If this is all new to you, _grab your API key_ from the TypeformI/O website linked above, and be sure to visit [typeform.com](https://typeform.com).
